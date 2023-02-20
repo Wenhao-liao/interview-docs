@@ -1,6 +1,6 @@
 # 快速开始
 
-## 部署地址：https://wenhao-liao.github.io/interview-docsholiday-doc/#/
+## 部署地址：https://wenhao-liao.github.io/interview-docs/#/
 
 > 本文档是什么？
 
