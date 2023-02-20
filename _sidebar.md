@@ -51,7 +51,7 @@
     * [VueRouter用过吗，怎么理解](docs/FE/08.Vue2/04.VueRouter用过吗，怎么理解)
     * [如何用路由守卫实现权限控制和加载进度](docs/FE/08.Vue2/05.如何用路由守卫实现权限控制和加载进度)
     * [Vue2是如何实现双向绑定的](docs/FE/08.Vue2/06.Vue2是如何实现双向绑定的)
-    * [VUE-DOM-diff](docs/FE/08.Vue2/07.VUE-DOM-diff)
+    * [VUE-DOM-diff](docs/FE/08.Vue2/07.vue-dom-diff)
 * Vue3
     * [Vue3为什么使用Proxy](docs/FE/09.Vue3/01.Vue3为什么使用Proxy)
     * [Vue3为什么使用Composition-API](docs/FE/09.Vue3/02.Vue3为什么使用Composition-API)
