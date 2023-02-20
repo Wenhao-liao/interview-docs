@@ -2,7 +2,7 @@
 
 <!-- ![logo](cover.gif) -->
 
-# holiday's docs `<small>`1.0`</small>`
+# holiday's interview docs <small>1.0</small>
 
 > 前端面试指北
 
